@@ -8,3 +8,4 @@ https://github.com/WolfGames156/Zoream-News/raw/refs/heads/main/7.json
 https://github.com/WolfGames156/Zoream-News/raw/refs/heads/main/8.json
 https://github.com/WolfGames156/Zoream-News/raw/refs/heads/main/9.json
 https://github.com/WolfGames156/Zoream-News/raw/refs/heads/main/10.json
+https://github.com/WolfGames156/Zoream-News/raw/refs/heads/main/11.json
